@@ -1,4 +1,8 @@
-## Hi there 👋
+# ¡Hola, soy Luis Palacios 👋!
+Soy una persona apasionada por el desarrollo y la innovación, siempre en constante búsqueda de aprender y dominar nuevas tecnologías.
+Me entusiasma crear, desarmar y volver a construir, porque creo firmemente que la práctica constante es la clave para alcanzar el dominio en cualquier área de la vida.
+Tanto a nivel profesional como personal, me considero proactivo, comprometido y con fuerte orientación al trabajo en equipo.
+Disfruto compartir mis conocimientos, aprender de los demás y mantenerme en modo aprendiz, con el objetivo de mejorar continuamente y contribuir al éxito colectivo.
 
 <!--
 **LPalaciosJr/lpalaciosjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
